@@ -1,0 +1,106 @@
+# CHARACTER SHEET TEMPLATE
+# Fill in the empty fields with alphanumeric values and substitute the pre-existing numbers in numeric fields.
+# Do not break fields into multiple lines.
+# All text entries are case sensitive, Markdown-enabled and limited to 25 characters (except inventory,
+# features, proficiencies, and spell lists, which are limited to 1020 characters, and
+# description, which is limited to 3000 characters). 
+# To add additional items to a list, separate each item with a comma and a single space.
+# ex.: inventory = "Sword, shield, torch";
+# Additional fields will not be added to the character sheet and may cause errors.
+
+system = D&D 5e
+name = 
+cclass = 
+level = 0
+race = 
+background = 
+alignment = 
+experience = 0
+
+proficiencies = 
+features = 
+
+armour_class = 10
+initiative = 0
+speed = 30 ft.
+
+inventory = 
+currency = 0
+
+age = 
+height = 
+weight = 
+eyes = 
+skin = 
+hair = 
+
+description = 
+
+spellcasting_ability = 
+spell_save_dc = 10
+spell_attack_bonus = 0
+
+cantrips = 
+level_1_spells = 
+level_1_spell_slots = 0
+maximum_level_1_spell_slots = 0
+level_2_spells = 
+level_2_spell_slots = 0
+maximum_level_2_spell_slots = 0
+level_3_spells = 
+level_3_spell_slots = 0
+maximum_level_3_spell_slots = 0
+level_4_spells = 
+level_4_spell_slots = 0
+maximum_level_4_spell_slots = 0
+level_5_spells = 
+level_5_spell_slots = 0
+maximum_level_5_spell_slots = 0
+level_6_spells = 
+level_6_spell_slots = 0
+maximum_level_6_spell_slots = 0
+level_7_spells = 
+level_7_spell_slots = 0
+maximum_level_7_spell_slots = 0
+level_8_spells = 
+level_8_spell_slots = 0
+maximum_level_8_spell_slots = 0
+level_9_spells = 
+level_9_spell_slots = 0
+maximum_level_9_spell_slots = 0
+
+hit_points = 10
+maximum_hit_points = 10
+temporary_hit_points = 0
+hit_die = d8
+hit_dice = 1
+death_saves_successes = 0
+death_saves_failures = 0
+
+strength = 10
+dexterity = 10
+constitution = 10
+intelligence = 10
+wisdom = 10
+charisma = 10
+
+athletics = 0
+acrobatics = 0
+sleight_of_hand = 0
+stealth = 0
+arcana = 0
+history = 0
+investigation = 0
+nature = 0
+religion = 0
+animal_handling = 0
+insight = 0
+medicine = 0
+perception = 0
+survival = 0
+deception = 0
+intimidation = 0
+performance = 0
+persuasion = 0
+
+passive_perception = 10

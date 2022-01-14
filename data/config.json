@@ -1,0 +1,6 @@
+{
+    "token": "BOT_TOKEN",
+    "owner_id": "USER_ID",
+    "guild_id": "GUILD_ID",
+    "connection_string": "DB_URL"
+}
